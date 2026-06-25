@@ -27,7 +27,7 @@ I build to understand — and I ship what I learn.
 ![SQL](https://img.shields.io/badge/SQL-111d27?style=flat-square&logo=postgresql&logoColor=5bbcff)
 ![Bash](https://img.shields.io/badge/Bash-111d27?style=flat-square&logo=gnubash&logoColor=5bbcff)
 
-### tools & ecosystem
+### Tools & Ecosystem
 
 ![Node.js](https://img.shields.io/badge/Node.js-5bbcff?style=flat-square&logo=nodedotjs&logoColor=0f1419)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5bbcff?style=flat-square&logo=postgresql&logoColor=0f1419)
@@ -40,7 +40,7 @@ I build to understand — and I ship what I learn.
 
 ---
 
-### currently obsessing over
+### Currently obsessing over
 
 - `◉` &nbsp;backend systems — how things scale, break, and recover
 - `◉` &nbsp;AI & blockchain — where I want to go next
@@ -49,7 +49,7 @@ I build to understand — and I ship what I learn.
 
 ---
 
-### connect
+### Connect
 
 [![github](https://img.shields.io/badge/github.com/mmicbee-111d27?style=flat-square&logo=github&logoColor=5bbcff)](https://github.com/mmicbee)
 &nbsp;
