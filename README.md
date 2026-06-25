@@ -71,8 +71,7 @@ I build to understand — and I ship what I learn.
 
 <div align="center">
 
-[![GitHub Streak](https://demolab.com)](https://git.io)
+[![GitHub Streak](https://demolab.com)](https://streak-stats.demolab.com)
 
 </div>
 
-</div>
