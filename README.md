@@ -57,9 +57,15 @@ I build to understand — and I ship what I learn.
 
 ---
 
+---
+
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Millicent's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Millicent's Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="Millicent's GitHub Stats" width="49%" />
+  <img src="https://vercel.app" alt="Millicent's Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Millicent's Streak Stats" width="99%" />
 </p>
