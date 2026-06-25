@@ -59,13 +59,18 @@ I build to understand — and I ship what I learn.
 
 ---
 
-### GitHub Stats
+### `> git log --stats`
 
-<p align="center">
-  <img src="https://vercel.app" alt="Millicent's GitHub Stats" width="49%" />
-  <img src="https://vercel.app" alt="Millicent's Top Languages" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Millicent's Streak Stats" width="99%" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amonochuka&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=aaffaa&hide_border=false&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amonochuka&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=aaffaa" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amonochuka&theme=matrix&background=0d0d0d&border=00FF41&stroke=00FF41&ring=00FF41&fire=00dd33&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=339933&dates=5a8a5a)](https://git.io/streak-stats)
+
+</div>
