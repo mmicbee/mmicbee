@@ -19,7 +19,7 @@ I build to understand — and I ship what I learn.
 
 ---
 
-### languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-111d27?style=flat-square&logo=python&logoColor=5bbcff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111d27?style=flat-square&logo=typescript&logoColor=5bbcff)
