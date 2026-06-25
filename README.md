@@ -57,14 +57,12 @@ I build to understand — and I ship what I learn.
 
 ---
 
----
-
 ### `> git log --stats`
 
 <div align="center">
 
 <img height="180" src="https://vercel.app" />
-
+&nbsp;
 <img height="180" src="https://vercel.app" />
 
 </div>
@@ -74,4 +72,3 @@ I build to understand — and I ship what I learn.
 [![GitHub Streak](https://demolab.com)](https://streak-stats.demolab.com)
 
 </div>
-
