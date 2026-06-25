@@ -5,7 +5,7 @@
 # Millicent Odhiambo
 `@mmicbee`
 
-![status](https://img.shields.io/badge/backend%20engineering-·%20full--stack%20in%20progress-5bbcff?style=flat-square&labelColor=111d27)
+![status](https://img.shields.io/badge/Backend%20Engineering-·%20Full--Stack%20in%20progress-5bbcff?style=flat-square&labelColor=111d27)
 
 </div>
 
