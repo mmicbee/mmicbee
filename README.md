@@ -55,5 +55,11 @@ I build to understand — and I ship what I learn.
 &nbsp;
 [![Email](https://shields.io)](mailto:millibecky4@gmail.com)
 
-
 ---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="Millicent's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Millicent's Top Languages" width="48%" />
+</p>
