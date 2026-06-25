@@ -5,14 +5,17 @@
 # Millicent Odhiambo
 `@mmicbee`
 
-![status](https://img.shields.io/badge/currently-backend%20engineering-5bbcff?style=flat-square&labelColor=111d27)
+![status](https://img.shields.io/badge/backend%20engineering-·%20full--stack%20in%20progress-5bbcff?style=flat-square&labelColor=111d27)
 
 </div>
 
 ---
 
-> *she builds things that work.*
-> Software engineer across the full stack — backend-first, data-curious, always learning.
+> *I like problems that don't have obvious answers.*
+
+Training at Zone01 Kisumu, going deep on backend systems while keeping an eye on the full picture.
+The rabbit holes I fall into most: **AI**, **blockchain**, and whatever breaks in prod at 2am.
+I build to understand — and I ship what I learn.
 
 ---
 
@@ -37,12 +40,12 @@
 
 ---
 
-### right now
+### currently obsessing over
 
-- `◉` &nbsp;deepening backend — APIs, databases, system design
-- `◉` &nbsp;exploring data & ML pipelines
-- `○` &nbsp;building in public, one commit at a time
-- `○` &nbsp;interested in clean architecture & developer experience
+- `◉` &nbsp;backend systems — how things scale, break, and recover
+- `◉` &nbsp;AI & blockchain — where I want to go next
+- `○` &nbsp;building projects that solve something real
+- `○` &nbsp;collaborating with people who care about the craft
 
 ---
 
