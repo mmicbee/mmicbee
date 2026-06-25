@@ -51,10 +51,8 @@ I build to understand — and I ship what I learn.
 
 ### Connect
 
-[![linkedin](https://www.linkedin.com/in/millicent-odhiambo-a306552a7)
+[![linkedin](https://shields.io)](https://www.linkedin.com/in/millicent-odhiambo-a306552a7)
 &nbsp;
-![location](https://img.shields.io/badge/Nairobi%2C%20KE-111d27?style=flat-square&logoColor=5bbcff)
-&nbsp;
-![collabs](https://img.shields.io/badge/open%20to%20collabs-111d27?style=flat-square&logoColor=5bbcff)
+[![email](https://shields.io)](mailto:millibecky4@gmail.com)
 
 ---
