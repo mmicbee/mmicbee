@@ -51,12 +51,10 @@ I build to understand — and I ship what I learn.
 
 ### Connect
 
-[![github](https://img.shields.io/badge/github.com/mmicbee-111d27?style=flat-square&logo=github&logoColor=5bbcff)](https://github.com/mmicbee)
+[![linkedin](https://www.linkedin.com/in/millicent-odhiambo-a306552a7)
 &nbsp;
 ![location](https://img.shields.io/badge/Nairobi%2C%20KE-111d27?style=flat-square&logoColor=5bbcff)
 &nbsp;
 ![collabs](https://img.shields.io/badge/open%20to%20collabs-111d27?style=flat-square&logoColor=5bbcff)
 
 ---
-
-<sub><i>she builds things. ✦</i></sub>
