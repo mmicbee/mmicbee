@@ -164,8 +164,6 @@ Every build answers a question:
 ╰──────────────────────────────╯
 ```
 
-![Snake animation](https://raw.githubusercontent.com/mmicbee/mmicbee/output/github-contribution-grid-snake-dark.svg)
-
 `connection terminated: profile loaded successfully`
 
 </div>
