@@ -45,8 +45,7 @@ status: continuously learning...
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00e5ff)
 ![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=00e5ff)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00e5ff)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=bd00ff)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=bd00ff)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=bd00ff)
