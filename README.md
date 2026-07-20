@@ -104,21 +104,6 @@ philosophy:
 
 ---
 
-## ◈ EXPERIMENT ARCHIVE
-
-```
-Projects are not just code.
-They are experiments.
-
-Every build answers a question:
-→ How does this scale?
-→ How does this fail?
-→ How can this be better?
-
-[ repositories below ↓ ]
-```
-
----
 
 ## ◈ SYSTEM LOGS
 
