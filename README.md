@@ -104,22 +104,6 @@ philosophy:
 
 ---
 
-## ◈ EXPERIMENT ARCHIVE
-
-```
-Projects are not just code.
-They are experiments.
-
-Every build answers a question:
-→ How does this scale?
-→ How does this fail?
-→ How can this be better?
-
-[ repositories below ↓ ]
-```
-
----
-
 ## ◈ SYSTEM LOGS
 
 <div align="center">
@@ -150,7 +134,6 @@ Every build answers a question:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=bd00ff)](mailto:millibecky4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mmicbee)
 
 </div>
 
