@@ -104,19 +104,35 @@ philosophy:
 
 ---
 
+## ◈ EXPERIMENT ARCHIVE
+
+```
+Projects are not just code.
+They are experiments.
+
+Every build answers a question:
+→ How does this scale?
+→ How does this fail?
+→ How can this be better?
+
+[ repositories below ↓ ]
+```
+
+---
+
 ## ◈ SYSTEM LOGS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mmicbee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mmicbee&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmicbee&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmicbee&layout=compact&theme=synthwave&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmicbee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmicbee&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,7 +140,7 @@ philosophy:
 
 ## ◈ ACTIVITY SCAN
 
-[![Millicent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmicbee&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Millicent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmicbee&theme=synthwave&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -134,6 +150,7 @@ philosophy:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=bd00ff)](mailto:millibecky4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mmicbee)
 
 </div>
 
